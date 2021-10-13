@@ -11,11 +11,14 @@ All the insights are divided into 7 parts:
 5. Game Genre
 6. Free-to-play games vs Paid games
 7. Game release date
+
+
 1. Overall
-• Total number of games on Steam are 46,101
-• Median price of games on Steam is USD 5
-• Median Positive Percent for all games on Steam is 0.78
-• There are specific price points for games on Steam which are USD 1, 5, 10, 15, 20 
+   • Total number of games on Steam are 46,101
+   • Median price of games on Steam is USD 5
+   • Median Positive Percent for all games on Steam is 0.78
+   • There are specific price points for games on Steam which are USD 1, 5, 10, 15, 20 
+
 2. Ownership
 • 69.18% of games are owned by less than 20 thousand players
 • 1% of games are owned by 1 mil to 2 mil players
