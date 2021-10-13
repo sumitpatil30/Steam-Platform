@@ -5,7 +5,7 @@ Extracted data of all video games released on Steam Platform. Performed EDA to u
 
 All the insights are divided into 7 parts:
 ## 1. Overall
-   - **Total number of games on Steam are 46,101
+   - **Total number of games on Steam are 46,101**
    - Median price of games on Steam is USD 5
    - Median Positive Percent for all games on Steam is 0.78
    - There are specific price points for games on Steam which are USD 1, 5, 10, 15, 20 
@@ -36,21 +36,21 @@ All the insights are divided into 7 parts:
       - 'Adventure'
       - 'Strategy'
     
-   - All game genre categories have increased between 2014 and 2020
-   - Number of 'Casual' games released has increased 10.34 times between 2014 and 2020
+   - **All game genre categories have increased between 2014 and 2020**
+   - **Number of 'Casual' games released has increased 10.34 times between 2014 and 2020**
 
 
 ## 6. Free-to-play games vs Paid games
-   - 15.47% of all games on steam are free to play games
+   - **15.47% of all games on steam are free to play games**
    - When player base is less than 20 thousand, more players are playing paid games
    - But as player base crosses 1 mil, more players are playing free-to-play-games
    - Top 5 genre for both free-to-play games and paid games are same
-   - 19% of Free-to-play games have Massively Multiplayer genre
-   - Only 2% of Paid games have Massively Multiplayer genre
+   - **19% of Free-to-play games have Massively Multiplayer genre**
+   - **Only 2% of Paid games have Massively Multiplayer genre**
 
 
 ## 7. Game release date
-   - Number of games released have increased at a CAGR of 43.47% between 2014 and 2018
+   - **Number of games released have increased at a CAGR of 43.47% between 2014 and 2018**
    - Maximum number of games are released in month of August
    - The difference between games released in August and July (2nd highest) is not significantly large
    - Release of games are spread evenly across all months
