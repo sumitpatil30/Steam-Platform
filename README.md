@@ -50,12 +50,12 @@ All the insights are divided into 7 parts:
 
 
 ## 7. Game release date
-    - Number of games released have increased at a CAGR of 43.47% between 2014 and 2018
-    - Maximum number of games are released in month of August
-    - The difference between games released in August and July (2nd highest) is not significantly large
-    - Release of games are spread evenly across all months
-    - 44.57% of all games are released in both Week 1 and Week 2 combined
-    - 46.26% of all games are released in Week 
+     - Number of games released have increased at a CAGR of 43.47% between 2014 and 2018
+     - Maximum number of games are released in month of August
+     - The difference between games released in August and July (2nd highest) is not significantly large
+     - Release of games are spread evenly across all months
+     - 44.57% of all games are released in both Week 1 and Week 2 combined
+     - 46.26% of all games are released in Week 
 
 
 
