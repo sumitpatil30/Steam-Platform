@@ -30,23 +30,23 @@ All the insights are divided into 7 parts:
 
 5. Game Genre
    -Top 5 genre for all games are: 
-    - 'Indie' 
-    - 'Action' 
-    - 'Casual'
-    - 'Adventure'
-    - 'Strategy'
+      - 'Indie' 
+      - 'Action' 
+      - 'Casual'
+      - 'Adventure'
+      - 'Strategy'
     
-  - All game genre categories have increased between 2014 and 2020
-  - Number of 'Casual' games released has increased 10.34 times between 2014 and 2020
+   - All game genre categories have increased between 2014 and 2020
+   - Number of 'Casual' games released has increased 10.34 times between 2014 and 2020
 
 
 6. Free-to-play games vs Paid games
-    -15.47% of all games on steam are free to play games
-    - When player base is less than 20 thousand, more players are playing paid games
-    - But as player base crosses 1 mil, more players are playing free-to-play-games
-    - Top 5 genre for both free-to-play games and paid games are same
-    - 19% of Free-to-play games have Massively Multiplayer genre
-    - Only 2% of Paid games have Massively Multiplayer genre
+   -15.47% of all games on steam are free to play games
+   - When player base is less than 20 thousand, more players are playing paid games
+   - But as player base crosses 1 mil, more players are playing free-to-play-games
+   - Top 5 genre for both free-to-play games and paid games are same
+   - 19% of Free-to-play games have Massively Multiplayer genre
+   - Only 2% of Paid games have Massively Multiplayer genre
 
 
 7. Game release date
