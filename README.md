@@ -5,7 +5,7 @@ Extracted data of all video games released on Steam Platform. Performed EDA to u
 
 All the insights are divided into 7 parts:
 ## 1. Overall
-   - Total number of games on Steam are 46,101
+   - ** Total number of games on Steam are 46,101 **
    - Median price of games on Steam is USD 5
    - Median Positive Percent for all games on Steam is 0.78
    - There are specific price points for games on Steam which are USD 1, 5, 10, 15, 20 
