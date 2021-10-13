@@ -10,13 +10,16 @@ All the insights are divided into 7 parts:
    - Median Positive Percent for all games on Steam is 0.78
    - There are specific price points for games on Steam which are USD 1, 5, 10, 15, 20 
 
+
 2. Ownership
    - 69.18% of games are owned by less than 20 thousand players
    - 1% of games are owned by 1 mil to 2 mil players
 
+
 3. Engagement
    - 75.36% of all games are non-active games
    - 23.57% of active games have less than 1 hour of median playtime
+
 
 4. Publisher and Developer
    - ‘Choice of Games’ is the biggest developer on steam
@@ -24,13 +27,15 @@ All the insights are divided into 7 parts:
    - ‘Big Fish Games’ is the biggest publisher on steam
    - Median price for ‘Big Fish Games’ (biggest publisher) is USD 9.99
 
+
 5. Game Genre
    -Top 5 genre for all games are: 
-    -1. 'Indie' 
-    -2. 'Action' 
-    -3. 'Casual'
-    -4. 'Adventure'
-    -5. 'Strategy'
+    - 'Indie' 
+    - 'Action' 
+    - 'Casual'
+    - 'Adventure'
+    - 'Strategy'
+    
   - All game genre categories have increased between 2014 and 2020
   - Number of 'Casual' games released has increased 10.34 times between 2014 and 2020
 
